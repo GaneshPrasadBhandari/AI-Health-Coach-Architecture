@@ -1,0 +1,5 @@
+outs:
+- md5: 633164f5010afe3ab925847f6cf0e52b
+  size: 3787
+  hash: md5
+  path: xray_dummy_detailed.csv
