@@ -15,4 +15,9 @@ pytest
 python-dotenv
 torch
 torchvision
+mlflow
+dvc[azure]
+apache-airflow
+docker
+docker-compose
 

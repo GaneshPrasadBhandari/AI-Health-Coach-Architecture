@@ -1,0 +1,15 @@
+columns:
+  - patient_id
+  - age
+  - sex
+  - bone_part
+  - tumor_type
+  - diagnosis
+  - modality
+  - intensity_mean
+  - intensity_std
+  - bounding_box_x
+  - bounding_box_y
+  - bounding_box_width
+  - bounding_box_height
+  - label

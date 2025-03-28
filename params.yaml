@@ -1,0 +1,37 @@
+# model:
+#   name: baseline_cnn
+#   type: CNN
+#   input_size: 224
+#   num_classes: 2
+#   learning_rate: 0.001
+#   epochs: 10
+#   batch_size: 32
+
+# training:
+#   test_split: 0.2
+#   random_state: 42
+
+# data:
+#   augment: true
+#   resize: 224
+
+
+experiment:
+  name: healthcoach-baseline
+
+data:
+  path: data/raw/xray_dummy_detailed.csv
+  target_column: label
+  test_size: 0.2
+
+model:
+  name: RandomForestClassifier
+  params:
+    n_estimators: 100
+    max_depth: 5
+    random_state: 42
+
+artifacts:
+  model_path: artifacts/model.pkl
+  scaler_path: artifacts/scaler.pkl
+
