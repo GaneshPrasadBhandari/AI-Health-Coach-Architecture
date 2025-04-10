@@ -1,7 +1,4 @@
-from src.exception.exception import CustomException
-import sys
+class CustomException(Exception):
+    def __init__(self, error_message):
+        super().__init__(error_message)
 
-try:
-    something()
-except Exception as e:
-    raise CustomException(str(e), sys)

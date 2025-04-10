@@ -3,6 +3,7 @@ from pathlib import Path
 
 project_files = [
     ".github/workflows/ci.yml",
+    ".env",
     "src/__init__.py",
     "src/components/__init__.py",
     "src/components/data_ingestion.py",
@@ -27,6 +28,8 @@ project_files = [
     "src/frontend/streamlit_app.py",
     "src/storage/__init__.py",
     "src/storage/azure_blob_storage.py",
+    "src/storage/aws_s3_storage.py",
+    "src/storage/local_storage.py",
     "src/knowledge_base/__init__.py",
     "src/knowledge_base/vector_db.py",
     "airflow/dags/training_dag.py",
@@ -51,6 +54,7 @@ project_files = [
     "LICENSE",
     ".gitignore",
     "template.py",
+    "dvc_remote_setup.py"
 ]
 
 for file_path in project_files:
