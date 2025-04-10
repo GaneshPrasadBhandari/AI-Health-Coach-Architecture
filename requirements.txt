@@ -1,23 +1,39 @@
-numpy
-pandas
-scikit-learn
-opencv-python
-matplotlib
-seaborn
-pillow
-#tensorflow
-mlflow
-dvc
-tqdm
-pyyaml
-loguru
-pytest
-python-dotenv
-torch
-torchvision
+# numpy
+# pandas
+# scikit-learn
+# opencv-python
+# matplotlib
+# seaborn
+# pillow
+# #tensorflow
+# mlflow
+# dvc
+# tqdm
+# pyyaml
+# loguru
+# pytest
+# python-dotenv
+# torch
+# torchvision
+# mlflow
+# dvc[azure]
+# apache-airflow
+# docker
+# docker-compose
+
 mlflow
 dvc[azure]
-apache-airflow
-docker
-docker-compose
-
+flask
+streamlit
+python-dotenv
+numpy
+pandas
+scipy
+scikit-learn
+sentence-transformers
+langchain
+langgraph
+openai
+pytest
+pytest-cov
+faiss-cpu
