@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 project_files = [
-    ".github/workflows/ci.yml",
+    ".github/workflows/.gitkeep",
     "src/__init__.py",
     "src/components/__init__.py",
     "src/components/data_ingestion.py",
@@ -22,22 +22,13 @@ project_files = [
     "src/logger/logging.py",
     "src/exception/__init__.py",
     "src/exception/exception.py",
-    "src/frontend/__init__.py",
-    "src/frontend/flask_app.py",
-    "src/frontend/streamlit_app.py",
-    "src/storage/__init__.py",
-    "src/storage/azure_blob_storage.py",
-    "src/knowledge_base/__init__.py",
-    "src/knowledge_base/vector_db.py",
     "airflow/dags/training_dag.py",
     "monitoring/drift_detection.py",
-    "tests/unit/test_components.py",
-    "tests/integration/test_pipeline.py",
-    "experiment/initial_experiment.ipynb",
+    "tests/unit/__init__.py",
+    "tests/integration/__init__.py",
+    "experiment/experiments.ipynb",
     "saved_models/.gitkeep",
     "Dockerfile",
-    "docker-compose.yml",
-    "terraform/main.tf",
     "dvc.yaml",
     "params.yaml",
     "requirements.txt",
@@ -48,8 +39,6 @@ project_files = [
     "tox.ini",
     "init_setup.sh",
     "README.md",
-    "LICENSE",
-    ".gitignore",
     "template.py",
 ]
 
