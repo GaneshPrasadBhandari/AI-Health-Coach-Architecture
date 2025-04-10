@@ -48,8 +48,9 @@ env.bak/
 venv.bak/
 logs/
 cache/
-.dvc/
-.dvc/cache/
+# ❌ DVC-related lines removed:
+# .dvc/
+# .dvc/cache/
 saved_models/
 artifacts/
 mlruns/
@@ -67,18 +68,19 @@ monitoring/reports/
 
 # ---------------------------
 # 📊 DVC / ML Data & Outputs
-# ---------------------------
-data/
-data/raw/
-data/interim/
-data/processed/
-data/external/
+# ⚠️ Keep these ONLY if you're NOT using Git to track full data folders.
+# For now, COMMENT all to make DVC happy
+# data/
+# data/raw/
+# data/interim/
+# data/processed/
+# data/external/
 !data/.gitkeep
 
 dvc.lock
 *.csv.dvc
-*.dvc
-.dvcignore
+
+# .dvcignore
 
 # ---------------------------
 # 🐳 Docker & Airflow
@@ -112,3 +114,6 @@ Thumbs.db
 # ---------------------------
 *.ipynb_checkpoints
 experiment/*.ipynb
+
+!.dvc/
+
