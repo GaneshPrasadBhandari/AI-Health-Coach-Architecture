@@ -348,3 +348,7 @@ If you want, next I can:
 
 Just tell me what’s next.
 ```
+
+© 2026 Ganesh Prasad Bhandari — All Rights Reserved.
+
+#AIArchitecture #AISupplyChain #EnterpriseAI #GenAI #MLOps #AIInnovation
