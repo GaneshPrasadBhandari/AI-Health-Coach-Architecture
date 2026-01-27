@@ -29,7 +29,7 @@ The goal is to **act earlier**, **reduce cognitive load**, and **support clinici
 - PDF: whitepapers/AI_Health_Coach_Architecture_White_Paper_v1.0.pdf
 - Branded PDF: whitepapers/AI_Health_Coach_Architecture_White_Paper_v1.0_branded.pdf
 - YouTube architecture deep-dive: https://www.youtube.com/watch?v=xI3dF-FLsy8
-- Zenodo DOI: (adding soon)
+- Zenodo DOI: https://doi.org/10.5281/zenodo.18395424
 
 
 ## ❗ Problem Statement
