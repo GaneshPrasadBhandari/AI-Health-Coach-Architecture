@@ -62,10 +62,6 @@ Key principles:
 
 ## 🏗️ System Architecture
 
-![Enterprise AI Supply Chain Architecture](./ai_healthcoach_architecture.png)
-
-> *Figure 1: High-level orchestration of the Autonomous AI_Healthcoach_Architecture, featuring Agentic Decision Intelligence and MLOps Governance.*
-
 ---
 
 ### Core Layers
