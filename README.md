@@ -338,23 +338,6 @@ Built to amplify human expertise — not replace it.
 ```
 
 
----
-
-## ✅ What You Can Do Next
-- Push this directly to GitHub
-- Use it in **job interviews**
-- Reference it in **IEEE submissions**
-- Link it in **LinkedIn posts**
-- Use it as a **portfolio flagship**
-
-If you want, next I can:
-- Create **architecture diagrams** for the README  
-- Add **badges + shields**
-- Convert this into **GitHub Pages**
-- Write a **recruiter-focused summary version**
-
-Just tell me what’s next.
-```
 
 © 2026 Ganesh Prasad Bhandari — All Rights Reserved.
 
