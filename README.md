@@ -325,7 +325,7 @@ Built to amplify human expertise — not replace it.
 [🔗 LinkedIn](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187/) |  
 [🧠 Medium](https://medium.com/ai-innovations-digest) |  
 [▶️ YouTube](https://www.youtube.com/@AIINOVATEHUB) |  
-[💻 GitHub](https://github.com/AIINOVATEHUB)
+[💻 GitHub](https://github.com/GaneshPrasadBhandari)
 
 
 ## 🧭 Author
