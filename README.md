@@ -4,8 +4,11 @@
 ---
 
 ## 🎓 Cite this Research & Authority
-**Bhandari, G. P. (2026).** *Autonomous AI Supply Chain Orchestration: A Multi-Agent System Architecture.* 📘 **Technical Whitepaper (Zenodo/CERN):** [Link Coming Soon - Insert DOI Here]  
-📊 **Reference Dataset (IEEE Dataport):** [Augmented Bone Tumor Segmentation & Triage Dataset](https://ieee-dataport.org/documents/btxrd-2024-augmented-bone-tumor-segmentation-and-triage-dataset-balanced-malignant-class)  
+**Bhandari, G. P. (2026).** 
+*Autonomous AI Supply Chain Orchestration: A Multi-Agent System Architecture.* 
+📘 **Technical Whitepaper (Zenodo/CERN):** [Link Coming Soon ]  
+📊 **Reference Dataset (IEEE Dataport):** 
+[Augmented Bone Tumor Segmentation & Triage Dataset](https://ieee-dataport.org/documents/btxrd-2024-augmented-bone-tumor-segmentation-and-triage-dataset-balanced-malignant-class)  
 🚀 **Newsletter:** [Join AI Vanguard on LinkedIn](https://www.linkedin.com/newsletters/7220489256505331712/)
 
 ---
