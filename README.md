@@ -263,80 +263,58 @@ ai-health-coach/
 
 
 ## 🧪 Model Evaluation
-
 Metrics tracked:
-
 Precision
-
 Recall
-
 F1-score
-
 ROC-AUC
-
 Calibration curves
-
 Clinical focus:
-
 High recall with controlled false positives
 ```
 
 ## 🔬 Research Alignment
 
 This architecture supports:
-
 IEEE research publication
-
 Clinical decision support systems (CDSS)
-
 Real-world hospital deployment
-
 The system follows architectural rigor, not demo shortcuts.
 ```
 
 ## ⚠️ Disclaimer
-
 This system:
-
 ❌ Does NOT provide diagnosis
-
 ❌ Does NOT replace clinicians
-
 ❌ Does NOT give emergency instructions
-
 It is a decision support and early signal amplification system.
 ```
 
 ## 📈 Future Roadmap
-
 Real-time wearable streaming
-
 Multi-disease risk models
-
 Hospital EHR integration
-
 FDA-aligned validation pipelines
-
 Mobile application deployment
 ```
 
 ## 🤝 Collaboration & Contact
 
 If you are a:
-
-Healthcare organization
-
-AI research group
-
-Hospital innovation team
-
-Enterprise looking to build real AI systems
+- Healthcare organization
+- AI research group
+- Hospital innovation team
+- Enterprise looking to build real AI systems
 ```
 
+### 🔗 LinkedIn Series 
+
+- AI Health Coach Architecture — https://www.linkedin.com/feed/update/urn:li:activity:7422096079317422080/
+ 
+---
+
 ## 📩 Let’s collaborate.
-
 ⭐ Final Note
-
 This is not a proof of concept.
 This is a deployable, safety-aware AI system blueprint.
 
@@ -344,7 +322,20 @@ Built to amplify human expertise — not replace it.
 ```
 
 
+🌍 **Connect With Me:**  
+[🔗 LinkedIn](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187/) |  
+[🧠 Medium](https://medium.com/ai-innovations-digest) |  
+[▶️ YouTube](https://www.youtube.com/@AIINOVATEHUB) |  
+[💻 GitHub](https://github.com/AIINOVATEHUB)
 
-© 2026 Ganesh Prasad Bhandari — All Rights Reserved.
 
+## 🧭 Author
+**AI Vanguard**  
+**Ganesh Prasad Bhandari**  
+AI Solution Architect | Enterprise AI & GenAI Innovator  
+📍 Massachusetts, USA  
+🌐 [LinkedIn](https://www.linkedin.com/in/) | [YouTube Channel](https://www.youtube.com/@)
+
+
+©2026 Ganesh Prasad Bhandari — All Rights Reserved.
 #AIArchitecture #AISupplyChain #EnterpriseAI #GenAI #MLOps #AIInnovation
