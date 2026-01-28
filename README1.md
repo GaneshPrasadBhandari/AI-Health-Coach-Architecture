@@ -14,7 +14,10 @@
 This project presents a complete **Enterprise AI Supply Chain Architecture** — a real-world operational framework that transforms traditional supply chains into **intelligent, adaptive, and autonomous systems** using AI, MLOps, and governance.  
 
 Unlike proofs-of-concept that often fail in deployment, this architecture is built for:  
-✅ **End-to-end automation** | ✅ **Real-time decision-making** | ✅ **Scalable multi-cloud deployment** | ✅ **Continuous learning**
+✅ **End-to-end automation** | 
+✅ **Real-time decision-making** | 
+✅ **Scalable multi-cloud deployment** | 
+✅ **Continuous learning**
 
 ---
 
