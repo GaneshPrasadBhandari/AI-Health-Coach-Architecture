@@ -333,7 +333,7 @@ Built to amplify human expertise — not replace it.
 **Ganesh Prasad Bhandari**  
 AI Solution Architect | Enterprise AI & GenAI Innovator  
 📍 Massachusetts, USA  
-🌐 [LinkedIn](https://www.linkedin.com/in/) | [YouTube Channel](https://www.youtube.com/@)
+
 
 
 ©2026 Ganesh Prasad Bhandari — All Rights Reserved.
