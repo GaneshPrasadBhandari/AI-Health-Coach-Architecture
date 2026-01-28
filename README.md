@@ -321,11 +321,19 @@ Built to amplify human expertise — not replace it.
 ```
 
 
+### 🔗 LinkedIn Series 
+
+- AI Health Coach Architecture — https://www.linkedin.com/feed/update/urn:li:activity:7422096079317422080/
+ 
+---
+
+
 🌍 **Connect With Me:**  
 [🔗 LinkedIn](https://www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187/) |  
 [🧠 Medium](https://medium.com/ai-innovations-digest) |  
 [▶️ YouTube](https://www.youtube.com/@AIINOVATEHUB) |  
 [💻 GitHub](https://github.com/GaneshPrasadBhandari)
+
 
 
 ## 🧭 Author
