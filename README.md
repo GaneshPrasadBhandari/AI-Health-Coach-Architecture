@@ -6,7 +6,7 @@
 ## 🎓 Cite this Research & Authority
 **Bhandari, G. P. (2026).** 
 *Autonomous AI Supply Chain Orchestration: A Multi-Agent System Architecture.* 
-📘 **Technical Whitepaper (Zenodo/CERN):** [Link Coming Soon ]  
+📘 **Technical Whitepaper (Zenodo/CERN):** [(https://zenodo.org/records/18408780)]  
 📊 **Reference Dataset (IEEE Dataport):**  
 🚀 **Newsletter:** [Join AI Vanguard on LinkedIn](https://www.linkedin.com/newsletters/7220489256505331712/)
 
